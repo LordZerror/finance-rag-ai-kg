@@ -7,10 +7,10 @@ Two 30-minute coding notebooks for the "AI in Finance" technical session:
 | Session 1 | [`notebooks/session1_rag.ipynb`](notebooks/session1_rag.ipynb) | A RAG question-answering system over real 10-K filings (NVIDIA, AMD, Micron): sec-parser → section-aware chunking → BGE embeddings → Chroma → Gemini answers with citations → FinBERT sentiment |
 | Session 2 | [`notebooks/session2_risk_graph.ipynb`](notebooks/session2_risk_graph.ipynb) | A cross-company risk exposure graph of 8 semiconductor companies in Neo4j: shared risks, hidden supply-chain exposure, single points of failure |
 
-**Open in Colab** (after pushing this repo to GitHub, update `YOUR_GITHUB_USERNAME` here and inside both notebooks):
+**Open in Colab:**
 
-- Session 1: `https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/finance-ai-rag-kg/blob/main/notebooks/session1_rag.ipynb`
-- Session 2: `https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/finance-ai-rag-kg/blob/main/notebooks/session2_risk_graph.ipynb`
+- Session 1: `https://colab.research.google.com/github/LordZerror/finance-rag-ai-kg/blob/main/notebooks/session1_rag.ipynb`
+- Session 2: `https://colab.research.google.com/github/LordZerror/finance-rag-ai-kg/blob/main/notebooks/session2_risk_graph.ipynb`
 
 ## Before the session (attendees — 5 minutes)
 
