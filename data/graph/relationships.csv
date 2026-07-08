@@ -1,0 +1,56 @@
+source,rel_type,target,evidence
+NVDA,DISCLOSES,RF_EXPORT_CONTROLS,FY2025 10-K Item 1A: US licensing requirements restrict exports of its most advanced data-center GPUs to China
+AMD,DISCLOSES,RF_EXPORT_CONTROLS,FY2024 10-K Item 1A: export controls restrict sales of certain AI and high-performance accelerators to China
+QCOM,DISCLOSES,RF_EXPORT_CONTROLS,FY2024 10-K Item 1A: national security-based trade restrictions affect sales to certain Chinese customers
+MU,DISCLOSES,RF_EXPORT_CONTROLS,FY2024 10-K Item 1A: export controls and Chinese government restrictions (CAC review) limit memory sales
+INTC,DISCLOSES,RF_EXPORT_CONTROLS,FY2024 10-K Item 1A: export license requirements restrict certain processor sales to Chinese customers
+AVGO,DISCLOSES,RF_EXPORT_CONTROLS,FY2024 10-K Item 1A: government export restrictions could affect sales of semiconductor products to China
+TSM,DISCLOSES,RF_EXPORT_CONTROLS,FY2024 20-F: export control regimes covering US-origin technology constrain which customers TSMC may serve
+ASML,DISCLOSES,RF_EXPORT_CONTROLS,FY2024 20-F: Dutch and US export restrictions limit shipments of advanced lithography systems to China
+NVDA,DISCLOSES,RF_TAIWAN_CONCENTRATION,FY2025 10-K Item 1A: reliance on third-party foundries concentrated in the Asia-Pacific region including Taiwan
+AMD,DISCLOSES,RF_TAIWAN_CONCENTRATION,FY2024 10-K Item 1A: substantially all products manufactured by third parties located in Taiwan and Asia
+QCOM,DISCLOSES,RF_TAIWAN_CONCENTRATION,FY2024 10-K Item 1A: geopolitical conflict involving Taiwan could disrupt the foundries it relies on
+AVGO,DISCLOSES,RF_TAIWAN_CONCENTRATION,FY2024 10-K Item 1A: dependence on TSMC wafer fabrication concentrated in Taiwan
+MU,DISCLOSES,RF_TAIWAN_CONCENTRATION,FY2024 10-K Item 1A: significant DRAM fabrication operations located in Taiwan
+TSM,DISCLOSES,RF_TAIWAN_CONCENTRATION,FY2024 20-F: substantially all fabs and operations are located in Taiwan amid cross-strait tensions
+NVDA,DISCLOSES,RF_CHINA_REVENUE,FY2025 10-K Item 1A: China historically a significant market whose revenue has been hurt by export restrictions
+AMD,DISCLOSES,RF_CHINA_REVENUE,FY2024 10-K Item 1A: a material portion of revenue derives from sales to customers in China
+QCOM,DISCLOSES,RF_CHINA_REVENUE,FY2024 10-K Item 1A: a significant portion of business is concentrated in China-based handset OEMs
+MU,DISCLOSES,RF_CHINA_REVENUE,FY2024 10-K Item 1A: China sales are material and exposed to the CAC procurement restrictions
+INTC,DISCLOSES,RF_CHINA_REVENUE,FY2024 10-K Item 1A: China is Intel's largest geographic market by revenue
+ASML,DISCLOSES,RF_CHINA_REVENUE,FY2024 20-F: China became a leading revenue region while facing tightening export limits
+NVDA,DISCLOSES,RF_SUPPLY_CONCENTRATION,FY2025 10-K Item 1A: dependence on a small number of foundry and memory partners for leading-edge supply
+AMD,DISCLOSES,RF_SUPPLY_CONCENTRATION,FY2024 10-K Item 1A: reliance on TSMC for microprocessor and GPU wafer fabrication
+QCOM,DISCLOSES,RF_SUPPLY_CONCENTRATION,FY2024 10-K Item 1A: dependence on a small number of foundries for leading-edge chip supply
+AVGO,DISCLOSES,RF_SUPPLY_CONCENTRATION,FY2024 10-K Item 1A: substantial dependence on TSMC as primary wafer foundry
+ASML,DISCLOSES,RF_SUPPLY_CONCENTRATION,FY2024 20-F: single-source dependence on Carl Zeiss SMT for critical optical components
+TSM,DISCLOSES,RF_CUSTOMER_CONCENTRATION,FY2024 20-F: a small number of customers account for a substantial share of revenue
+ASML,DISCLOSES,RF_CUSTOMER_CONCENTRATION,FY2024 20-F: sales concentrated among a limited number of leading-edge chipmakers
+MU,DISCLOSES,RF_CUSTOMER_CONCENTRATION,FY2024 10-K Item 1A: a small number of customers make up a significant portion of revenue
+QCOM,DISCLOSES,RF_CUSTOMER_CONCENTRATION,FY2024 10-K Item 1A: revenue concentrated among a small number of large handset makers
+NVDA,DISCLOSES,RF_CUSTOMER_CONCENTRATION,FY2025 10-K Item 1A: a limited number of large cloud customers represent a significant share of revenue
+MU,DISCLOSES,RF_CYCLICALITY,FY2024 10-K Item 1A: memory markets are highly cyclical with volatile average selling prices
+INTC,DISCLOSES,RF_CYCLICALITY,FY2024 10-K Item 1A: semiconductor demand and capital intensity follow cyclical patterns
+TSM,DISCLOSES,RF_CYCLICALITY,FY2024 20-F: foundry utilization and pricing are exposed to semiconductor cycles
+ASML,DISCLOSES,RF_CYCLICALITY,FY2024 20-F: lithography equipment orders swing with semiconductor capex cycles
+NVDA,SUBJECT_TO,REG_EAR,FY2025 10-K: BIS license requirements apply to A100/H100-class and successor data-center GPUs
+AMD,SUBJECT_TO,REG_EAR,FY2024 10-K: MI-series accelerators require export licenses for China sales
+QCOM,SUBJECT_TO,REG_EAR,FY2024 10-K: EAR-based restrictions govern sales to listed Chinese entities
+MU,SUBJECT_TO,REG_EAR,FY2024 10-K: advanced memory shipments subject to BIS export licensing
+INTC,SUBJECT_TO,REG_EAR,FY2024 10-K: advanced processor exports to certain Chinese customers require licenses
+AVGO,SUBJECT_TO,REG_EAR,FY2024 10-K: certain semiconductor product exports fall under EAR licensing
+TSM,SUBJECT_TO,REG_EAR,FY2024 20-F: use of US-origin equipment and technology brings TSMC within EAR reach
+ASML,SUBJECT_TO,REG_EAR,FY2024 20-F: US-origin components and technology subject parts of ASML's systems to the EAR
+INTC,SUBJECT_TO,REG_CHIPS_ACT,FY2024 10-K: received CHIPS Act incentives with associated expansion guardrails
+MU,SUBJECT_TO,REG_CHIPS_ACT,FY2024 10-K: awarded CHIPS Act funding for US memory fab construction
+TSM,SUBJECT_TO,REG_CHIPS_ACT,FY2024 20-F: Arizona subsidiary receives CHIPS Act support subject to guardrail conditions
+ASML,SUBJECT_TO,REG_DUTCH_EXPORT,FY2024 20-F: Dutch licensing rules restrict export of EUV and advanced DUV systems
+NVDA,DEPENDS_ON,TSM,NVIDIA's leading-edge GPUs are fabricated by TSMC
+AMD,DEPENDS_ON,TSM,AMD relies on TSMC for CPU and GPU wafer fabrication
+QCOM,DEPENDS_ON,TSM,Qualcomm sources leading-edge Snapdragon chips from TSMC
+AVGO,DEPENDS_ON,TSM,Broadcom depends on TSMC as its primary wafer foundry
+INTC,DEPENDS_ON,TSM,Intel outsources certain leading-edge tiles and chips to TSMC
+NVDA,DEPENDS_ON,MU,Micron supplies HBM high-bandwidth memory used in NVIDIA AI accelerators
+TSM,DEPENDS_ON,ASML,TSMC's leading-edge nodes require ASML EUV lithography systems
+INTC,DEPENDS_ON,ASML,Intel's advanced process roadmap depends on ASML EUV and High-NA tools
+MU,DEPENDS_ON,ASML,Micron's leading-edge DRAM nodes use ASML EUV lithography

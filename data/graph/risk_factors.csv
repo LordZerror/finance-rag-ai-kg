@@ -1,0 +1,7 @@
+risk_id,name,description
+RF_EXPORT_CONTROLS,US export controls on advanced chips,Government restrictions on selling advanced semiconductors and chipmaking equipment to China and other restricted markets
+RF_TAIWAN_CONCENTRATION,Geopolitical concentration in Taiwan,Dependence on manufacturing capacity located in Taiwan and exposure to China-Taiwan tensions
+RF_CHINA_REVENUE,China revenue exposure,A significant share of revenue comes from China and is vulnerable to trade tensions and retaliation
+RF_SUPPLY_CONCENTRATION,Reliance on a small number of suppliers,Dependence on one or a few suppliers or foundries for critical manufacturing steps or components
+RF_CUSTOMER_CONCENTRATION,Dependence on a small number of large customers,A large share of revenue comes from a handful of customers whose loss would materially hurt results
+RF_CYCLICALITY,Semiconductor industry cyclicality,Exposure to boom-and-bust demand and pricing cycles characteristic of the semiconductor industry
